@@ -1,0 +1,9 @@
+h1, h2 {
+    text-align: center;
+    color:blue
+}
+div {
+    height: 100px;
+    width: 100px;
+    background: blanchedalmond;
+}
