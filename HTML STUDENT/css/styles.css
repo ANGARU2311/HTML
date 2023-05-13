@@ -1,9 +1,79 @@
-h1, h2 {
-    text-align: center;
-    color:blue
+/*header {
+    height: 100px;
+    width: 100px;
+    background: blue;
+    padding: 2px;
 }
+
 div {
     height: 100px;
     width: 100px;
-    background: blanchedalmond;
+    background: rebeccapurple;
+}*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+/* Se formatean los estilos del documento*/
+
+.Block_Titulos {
+    height: 100px;
+    width: auto;
+    padding: 10px;
+    background: royalblue;
+    margin-bottom: 10px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: azure;
+}
+
+.Parrafos {
+    height: 100px;
+    width: auto;
+    padding: 10px;
+    background: rosybrown;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+    height: 100px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+ol {
+    display: flex;
+    background-color: cornflowerblue;
+    height: 100px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+li {
+    margin-left: 20px;
+}
+
+ul li i {
+    font-size: 20px;
+}
+
+a {
+    color: #fff;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 150px;
+    padding: 10px;
 }

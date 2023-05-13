@@ -1,2 +1,6 @@
 https://www.manualweb.net/html5/
 https://www.w3schools.com/html/
+
+
+https://cdnjs.com/libraries/font-awesome - FONTASOWENOME
+https://www.wcido.com/en/htmlcharacters
