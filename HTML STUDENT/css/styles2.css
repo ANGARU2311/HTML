@@ -30,7 +30,11 @@ html {
 .sidebar, 
 .main,
 .footer {
-    height: 100px;
+    height: 100%;
+}
+
+.sidebar, .main {
+    width: 100%;
 }
 
 .grid-container {
